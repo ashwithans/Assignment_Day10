@@ -1,0 +1,7 @@
+C:\Users\Ashwitha\Desktop\Assignment\Assignmnet Day 10\ConAppDay10Assignmnet\ConAppDay10Assignmnet\bin\Debug\ConAppDay10Assignmnet.exe.config
+C:\Users\Ashwitha\Desktop\Assignment\Assignmnet Day 10\ConAppDay10Assignmnet\ConAppDay10Assignmnet\bin\Debug\ConAppDay10Assignmnet.exe
+C:\Users\Ashwitha\Desktop\Assignment\Assignmnet Day 10\ConAppDay10Assignmnet\ConAppDay10Assignmnet\bin\Debug\ConAppDay10Assignmnet.pdb
+C:\Users\Ashwitha\Desktop\Assignment\Assignmnet Day 10\ConAppDay10Assignmnet\ConAppDay10Assignmnet\obj\Debug\ConAppDay10Assignmnet.csproj.AssemblyReference.cache
+C:\Users\Ashwitha\Desktop\Assignment\Assignmnet Day 10\ConAppDay10Assignmnet\ConAppDay10Assignmnet\obj\Debug\ConAppDay10Assignmnet.csproj.CoreCompileInputs.cache
+C:\Users\Ashwitha\Desktop\Assignment\Assignmnet Day 10\ConAppDay10Assignmnet\ConAppDay10Assignmnet\obj\Debug\ConAppDay10Assignmnet.exe
+C:\Users\Ashwitha\Desktop\Assignment\Assignmnet Day 10\ConAppDay10Assignmnet\ConAppDay10Assignmnet\obj\Debug\ConAppDay10Assignmnet.pdb
